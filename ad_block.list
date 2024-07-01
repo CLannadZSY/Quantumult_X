@@ -1,1 +1,6 @@
-
+# 美团直播
+host,beauty-tx-flv.meituan.net,Advertising
+host,beauty-hw-flv.meituan.net,Advertising
+host,beauty-kuai-flv.meituan.net,Advertising
+host,live-monitor-broker.sankuai.com,Advertising
+host-suffix,mtvod.meituan.net,Advertising
