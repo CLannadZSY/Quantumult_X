@@ -4,3 +4,6 @@ host,beauty-hw-flv.meituan.net,Advertising
 host,beauty-kuai-flv.meituan.net,Advertising
 host,live-monitor-broker.sankuai.com,Advertising
 host-suffix,mtvod.meituan.net,Advertising
+
+# 光大银行
+host-suffix,dzhlive.com,Advertising
