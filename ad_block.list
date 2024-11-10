@@ -1,13 +1,13 @@
 # 美团直播
-host,beauty-ali-flv-live.meituan.net,Advertising
-host,beauty-tx-flv.meituan.net,Advertising
-host,beauty-tx-flv-live.meituan.net,Advertising
-host,beauty-hw-flv.meituan.net,Advertising
-host,beauty-hw-flv-live.meituan.net,Advertising
-host,beauty-kuai-flv.meituan.net,Advertising
-host,beauty-kuai-flv-live.meituan.net,Advertising
-host,live-monitor-broker.sankuai.com,Advertising
-host-suffix,mtvod.meituan.net,Advertising
-host,upos-sz-staticcos.bilivideo.com,Advertising
+HOST-KEYWORD,-flv-live,Advertising
+HOST,beauty-tx-flv.meituan.net,Advertising
+HOST,beauty-tx-flv-live.meituan.net,Advertising
+HOST,beauty-hw-flv.meituan.net,Advertising
+HOST,beauty-hw-flv-live.meituan.net,Advertising
+HOST,beauty-kuai-flv.meituan.net,Advertising
+HOST,beauty-kuai-flv-live.meituan.net,Advertising
+HOST,live-monitor-broker.sankuai.com,Advertising
+HOST-SUFFIX,mtvod.meituan.net,Advertising
+HOST,upos-sz-staticcos.bilivideo.com,Advertising
 # 光大银行
 # host-suffix,dzhlive.com,Advertising
