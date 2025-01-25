@@ -11,5 +11,8 @@ HOST-SUFFIX,mtvod.meituan.net,Advertising
 HOST,upos-sz-staticcos.bilivideo.com,Advertising
 # 光大银行
 # host-suffix,dzhlive.com,Advertising
+# 小红书
+HOST,growth-img.xhscdn.com,Advertising
+HOST,sns-webpic.xhscdn.com,Advertising
 # 其他
 HOST,ietheivaicai.com,Advertising
