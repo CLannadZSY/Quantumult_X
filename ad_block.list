@@ -19,5 +19,7 @@ HOST,xhslive-video.xhscnd.com,Advertising
 HOST,spider-tracker.xiaohongshu.com,Advertising
 HOST,sns-video-hw.xhscdn.com,Advertising
 HOST,sns-video-hs.xhscdn.com,Advertising
+HOST,fe-static.xhscdn.com,Advertising
+HOST-SUFFIX,ahdohpiechei.com,Advertising
 # 其他
 HOST,ietheivaicai.com,Advertising
